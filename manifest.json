@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Exam Countdown",
+  "description": "Shows how many days are left for the exam on March 15, 2026",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
